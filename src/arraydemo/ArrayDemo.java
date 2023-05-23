@@ -6,7 +6,7 @@ public class ArrayDemo {
 
     
     public static void main(String[] args) {
-        
+        // added comment for ferch + merge
         /*char[] mylist = new char[5];
         mylist[0]='R';
         mylist[1]='o';
